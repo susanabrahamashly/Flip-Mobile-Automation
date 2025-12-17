@@ -1,0 +1,14 @@
+<suite name="FlipMobile Suite" parallel="false">
+    <listeners>
+        <listener class-name="com.flip.utils.TestListener"/>
+    </listeners>
+
+    <test name="FlipMobile Tests">
+        <classes>
+            <class name="com.flip.test.main.FlipMobileTest"/>
+        </classes>
+
+    </test>
+</suite>
+
+

@@ -1,0 +1,524 @@
+2025-12-17 09:36:54 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 09:37:23 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 09:37:28 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 09:37:56 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 09:38:18 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 09:38:22 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 09:39:05 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 09:39:26 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 09:39:29 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 09:39:46 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 09:40:00 [INFO ] com.flip.pages.OrderWindow - LTP: 3230.20
+2025-12-17 09:40:00 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP: 3165.60
+2025-12-17 09:40:03 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3165.60
+2025-12-17 09:40:08 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 09:41:39 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 09:42:00 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 09:42:03 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 09:42:20 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 09:42:31 [INFO ] com.flip.pages.OrderWindow - LTP: 3230.50
+2025-12-17 09:42:31 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP: 3165.89
+2025-12-17 09:42:36 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3165.89
+2025-12-17 09:42:40 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 09:47:49 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 09:48:10 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 09:48:13 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 09:48:31 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 09:48:43 [INFO ] com.flip.pages.OrderWindow - LTP: 3221.0
+2025-12-17 09:48:43 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3157
+2025-12-17 09:48:50 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3157
+2025-12-17 09:48:54 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 09:59:53 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:00:24 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:01:06 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:01:11 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:04:05 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:04:22 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:04:27 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:05:06 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:05:24 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:05:28 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:06:05 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:06:22 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:06:26 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:06:58 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:07:11 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:07:16 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:07:36 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:07:50 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:07:55 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:08:14 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:08:33 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:08:37 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:10:00 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:10:15 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:10:19 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:11:17 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:11:49 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:11:54 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:13:08 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:13:23 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:13:30 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:13:48 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 10:14:04 [INFO ] com.flip.pages.OrderWindow - LTP: 3224.7
+2025-12-17 10:14:04 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3160
+2025-12-17 10:14:10 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3160
+2025-12-17 10:14:14 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 10:33:28 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:33:45 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:33:50 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:34:07 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 10:34:18 [INFO ] com.flip.pages.OrderWindow - LTP: 3226.8
+2025-12-17 10:34:18 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3162
+2025-12-17 10:34:21 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3162
+2025-12-17 10:34:26 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 10:36:06 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:36:21 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:36:26 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:36:44 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 10:36:56 [INFO ] com.flip.pages.OrderWindow - LTP: 3223.9
+2025-12-17 10:36:56 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3159
+2025-12-17 10:37:00 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3159
+2025-12-17 10:37:04 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 10:39:48 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:40:04 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:40:08 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:40:25 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 10:40:36 [INFO ] com.flip.pages.OrderWindow - LTP: 3216.8
+2025-12-17 10:40:36 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3152
+2025-12-17 10:40:40 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3152
+2025-12-17 10:40:44 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 10:40:46 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 10:57:59 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:58:15 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:58:19 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:58:41 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 10:58:59 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 10:59:04 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 10:59:21 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 10:59:33 [INFO ] com.flip.pages.OrderWindow - LTP: 3215.7
+2025-12-17 10:59:33 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3151
+2025-12-17 10:59:39 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3151
+2025-12-17 11:00:53 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:01:07 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:01:12 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:01:29 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:01:41 [INFO ] com.flip.pages.OrderWindow - LTP: 3216.9
+2025-12-17 11:01:41 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3153
+2025-12-17 11:01:44 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3153
+2025-12-17 11:01:47 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 11:01:49 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 11:05:06 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:05:21 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:05:25 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:05:54 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:06:08 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:06:13 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:06:29 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:06:43 [INFO ] com.flip.pages.OrderWindow - LTP: 3217.1
+2025-12-17 11:06:43 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3153
+2025-12-17 11:06:49 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3153
+2025-12-17 11:06:52 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 11:06:55 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 11:14:51 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:15:06 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:15:11 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:17:24 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:17:38 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:17:43 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:17:59 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:18:11 [INFO ] com.flip.pages.OrderWindow - LTP: 3222.3
+2025-12-17 11:18:11 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3158
+2025-12-17 11:18:15 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3158
+2025-12-17 11:18:21 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 11:18:23 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 11:18:23 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 11:18:23 [INFO ] com.flip.pages.OrderWindow - Order Rejected
+2025-12-17 11:18:23 [INFO ] com.flip.pages.OrderWindow - Insufficient buying power. Current buying power -27.85; Required buying power 6316.00. 
+2025-12-17 11:18:23 [INFO ] com.flip.pages.OrderWindow - Order Again
+2025-12-17 11:18:23 [INFO ] com.flip.pages.OrderWindow - Add Funds
+2025-12-17 11:18:23 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------
+2025-12-17 11:20:45 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:20:59 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:21:03 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:21:29 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:21:43 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:21:47 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:22:11 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:22:26 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:22:30 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:22:46 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:22:59 [INFO ] com.flip.pages.OrderWindow - LTP: 3221.8
+2025-12-17 11:22:59 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3157
+2025-12-17 11:23:03 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3157
+2025-12-17 11:23:07 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 11:25:45 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:26:01 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:26:04 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:26:31 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:26:46 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:26:50 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:27:07 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:27:18 [INFO ] com.flip.pages.OrderWindow - LTP: 3221.1
+2025-12-17 11:27:18 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3157
+2025-12-17 11:27:22 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3157
+2025-12-17 11:27:25 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 11:32:08 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:32:24 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:32:28 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:32:46 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:33:01 [INFO ] com.flip.pages.OrderWindow - LTP: 3220.9
+2025-12-17 11:33:01 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3156
+2025-12-17 11:33:07 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3156
+2025-12-17 11:33:11 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 11:38:38 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:38:52 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:38:57 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:39:13 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:44:52 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:45:07 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:45:10 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:45:27 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:45:41 [INFO ] com.flip.pages.OrderWindow - LTP: 3223.0
+2025-12-17 11:45:41 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3159
+2025-12-17 11:47:01 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:47:15 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:47:19 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:47:36 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:47:53 [INFO ] com.flip.pages.OrderWindow - LTP: 3224.4
+2025-12-17 11:47:53 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3160
+2025-12-17 11:47:57 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3160
+2025-12-17 11:48:02 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 11:50:05 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 11:50:20 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 11:50:24 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 11:50:42 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 11:50:55 [INFO ] com.flip.pages.OrderWindow - LTP: 3224.9
+2025-12-17 11:50:55 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3160
+2025-12-17 11:51:00 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3160
+2025-12-17 11:51:04 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 11:51:05 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 11:51:05 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 11:51:05 [INFO ] com.flip.pages.OrderWindow - Order Rejected
+2025-12-17 11:51:05 [INFO ] com.flip.pages.OrderWindow - Insufficient buying power. Current buying power -22.87; Required buying power 6320.00. 
+2025-12-17 11:51:05 [INFO ] com.flip.pages.OrderWindow - Order Again
+2025-12-17 11:51:05 [INFO ] com.flip.pages.OrderWindow - Add Funds
+2025-12-17 11:51:05 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------
+2025-12-17 12:10:48 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:14:16 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:14:30 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:14:35 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:14:58 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:15:16 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:15:21 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:15:37 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 12:17:22 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:18:11 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:18:30 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:18:34 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:18:49 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:19:04 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:19:08 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:19:26 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 12:19:42 [INFO ] com.flip.pages.OrderWindow - LTP: 3218.4
+2025-12-17 12:19:42 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 3154
+2025-12-17 12:19:45 [INFO ] com.flip.pages.OrderWindow - Price enetered: 3154
+2025-12-17 12:19:51 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 12:19:52 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 12:19:52 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 12:19:52 [INFO ] com.flip.pages.OrderWindow - Order Rejected
+2025-12-17 12:19:52 [INFO ] com.flip.pages.OrderWindow - Insufficient buying power. Current buying power -22.81; Required buying power 6308.00. 
+2025-12-17 12:19:52 [INFO ] com.flip.pages.OrderWindow - Order Again
+2025-12-17 12:19:52 [INFO ] com.flip.pages.OrderWindow - Add Funds
+2025-12-17 12:19:52 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------
+2025-12-17 12:28:49 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:29:04 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:29:09 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:29:26 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 12:34:37 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:34:52 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:34:56 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:35:13 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 12:35:25 [INFO ] com.flip.pages.OrderWindow - LTP: 2.55
+2025-12-17 12:35:25 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 2
+2025-12-17 12:35:29 [INFO ] com.flip.pages.OrderWindow - Price enetered: 2
+2025-12-17 12:35:32 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 12:35:34 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 12:35:35 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 12:35:35 [INFO ] com.flip.pages.OrderWindow - Order Sent to Exchange
+2025-12-17 12:35:36 [INFO ] com.flip.pages.OrderWindow - Repeat Order
+2025-12-17 12:35:36 [INFO ] com.flip.pages.OrderWindow - Watchlist
+2025-12-17 12:35:36 [INFO ] com.flip.pages.OrderWindow - Open Orders
+2025-12-17 12:35:36 [INFO ] com.flip.pages.OrderWindow - Go to Position
+2025-12-17 12:35:36 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------
+2025-12-17 12:37:33 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:37:47 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:37:52 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:38:11 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 12:38:25 [INFO ] com.flip.pages.OrderWindow - LTP: 11.29
+2025-12-17 12:38:25 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 12:38:29 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 12:38:33 [INFO ] com.flip.pages.OrderWindow - No Surveillance Alert
+2025-12-17 12:39:23 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:39:39 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:39:43 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:40:03 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 12:40:17 [INFO ] com.flip.pages.OrderWindow - LTP: 11.28
+2025-12-17 12:40:17 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 12:40:22 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 12:40:26 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 12:40:29 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 12:40:29 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 12:40:29 [INFO ] com.flip.pages.OrderWindow - Order Rejected
+2025-12-17 12:40:29 [INFO ] com.flip.pages.OrderWindow - Insufficient buying power. Current buying power 6.98; Required buying power 11.00. 
+2025-12-17 12:40:29 [INFO ] com.flip.pages.OrderWindow - Order Again
+2025-12-17 12:40:29 [INFO ] com.flip.pages.OrderWindow - Add Funds
+2025-12-17 12:40:29 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------
+2025-12-17 12:49:28 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 12:49:43 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 12:49:48 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 12:50:07 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 12:50:25 [INFO ] com.flip.pages.OrderWindow - LTP: 11.26
+2025-12-17 12:50:25 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 12:50:29 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 12:50:33 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 12:50:36 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 12:50:37 [INFO ] com.flip.pages.OrderWindow - ------ Relevant Page Contents ------
+2025-12-17 12:50:37 [INFO ] com.flip.pages.OrderWindow - ------ End of Relevant Page Contents ------
+2025-12-17 13:30:39 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 13:30:55 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 13:31:00 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 13:31:20 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 13:31:34 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 13:31:38 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 13:31:56 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 13:32:08 [INFO ] com.flip.pages.OrderWindow - LTP: 11.17
+2025-12-17 13:32:08 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 13:32:11 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 13:32:16 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 13:32:19 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 13:32:19 [INFO ] com.flip.pages.OrderWindow - ------ Relevant Page Contents ------
+2025-12-17 13:32:19 [INFO ] com.flip.pages.OrderWindow - No Order status message found
+2025-12-17 13:32:19 [INFO ] com.flip.pages.OrderWindow - ------ End of Relevant Page Contents ------
+2025-12-17 13:38:31 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 13:38:45 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 13:38:49 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 13:39:06 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 13:39:20 [INFO ] com.flip.pages.OrderWindow - LTP: 11.15
+2025-12-17 13:39:20 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 13:39:25 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 13:39:29 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 13:39:32 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 13:39:44 [ERROR] com.flip.pages.OrderWindow - No order status message appeared within timeout
+2025-12-17 13:46:34 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 13:46:49 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 13:46:53 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 13:47:11 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 13:47:23 [INFO ] com.flip.pages.OrderWindow - LTP: 11.16
+2025-12-17 13:47:23 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 13:47:27 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 13:47:31 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 13:47:34 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 13:47:34 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 13:47:34 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------
+2025-12-17 13:50:00 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 13:50:15 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 13:50:19 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 13:50:50 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 13:51:04 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 13:51:09 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 13:51:27 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 13:51:43 [INFO ] com.flip.pages.OrderWindow - LTP: 11.17
+2025-12-17 13:51:43 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 13:51:47 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 13:51:51 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 13:51:54 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 13:53:28 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 13:53:42 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 13:53:47 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 13:54:54 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 13:55:07 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 13:55:11 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 13:55:30 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 13:55:46 [INFO ] com.flip.pages.OrderWindow - LTP: 11.14
+2025-12-17 13:55:46 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 13:55:50 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 13:55:54 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 13:55:56 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 13:55:56 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 13:55:56 [INFO ] com.flip.pages.OrderWindow - Status not available
+2025-12-17 13:55:56 [INFO ] com.flip.pages.OrderWindow - Status not available
+2025-12-17 13:55:56 [INFO ] com.flip.pages.OrderWindow - Status not available
+2025-12-17 13:55:56 [INFO ] com.flip.pages.OrderWindow - Status not available
+2025-12-17 13:55:56 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------
+2025-12-17 14:00:31 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 14:00:46 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 14:00:50 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 14:01:08 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 14:01:22 [INFO ] com.flip.pages.OrderWindow - LTP: 11.12
+2025-12-17 14:01:22 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 14:01:25 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 14:01:29 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 14:01:32 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 14:01:32 [INFO ] com.flip.pages.OrderWindow - Order status not found on screen
+2025-12-17 14:09:35 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 14:09:50 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 14:09:54 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 14:10:12 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 14:10:25 [INFO ] com.flip.pages.OrderWindow - LTP: 11.12
+2025-12-17 14:10:25 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 14:10:29 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 14:10:33 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 14:11:31 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 14:11:45 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 14:11:50 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 14:12:08 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 14:12:21 [INFO ] com.flip.pages.OrderWindow - LTP: 11.12
+2025-12-17 14:12:21 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 14:12:25 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 14:12:29 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 14:12:31 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 14:12:31 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 14:12:31 [INFO ] com.flip.pages.OrderWindow - Order Rejected
+2025-12-17 14:12:31 [INFO ] com.flip.pages.OrderWindow - Insufficient buying power. Current buying power 6.98; Required buying power 11.00. 
+2025-12-17 14:12:31 [INFO ] com.flip.pages.OrderWindow - Order Again
+2025-12-17 14:12:31 [INFO ] com.flip.pages.OrderWindow - Add Funds
+2025-12-17 14:12:31 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------
+2025-12-17 15:58:37 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 15:58:57 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 15:59:01 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 15:59:51 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-17 16:00:09 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-17 16:00:14 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-17 16:00:32 [INFO ] com.flip.pages.OrderWindow - Symbol added successfully
+2025-12-17 16:00:43 [INFO ] com.flip.pages.OrderWindow - LTP: 11.13
+2025-12-17 16:00:43 [INFO ] com.flip.pages.OrderWindow - 2% less than LTP (integer): 11
+2025-12-17 16:00:46 [INFO ] com.flip.pages.OrderWindow - Price enetered: 11
+2025-12-17 16:00:49 [INFO ] com.flip.pages.OrderWindow - Surveillance Alert popup displayed
+2025-12-17 16:00:51 [INFO ] com.flip.pages.OrderWindow - Order placed!
+2025-12-17 16:00:52 [INFO ] com.flip.pages.OrderWindow - ------ Visible Page Contents ------
+2025-12-17 16:00:52 [INFO ] com.flip.pages.OrderWindow - Order Rejected
+2025-12-17 16:00:52 [INFO ] com.flip.pages.OrderWindow - Insufficient buying power. Current buying power 6.98; Required buying power 11.00. 
+2025-12-17 16:00:52 [INFO ] com.flip.pages.OrderWindow - Order Again
+2025-12-17 16:00:52 [INFO ] com.flip.pages.OrderWindow - Add Funds
+2025-12-17 16:00:52 [INFO ] com.flip.pages.OrderWindow - ------ End of Page Contents ------

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SSO Login Test Suite">
+    <test name="Login Functionality Tests">
+        <classes>
+            <class name="com.flip.test.main.FlipMobileTest">
+                <methods>
+
+                    <include name="testTC001_successfulPrimaryLogin"/>
+                    <include name="testTC002_defaultOrderSettingsOrderType"/>
+                    <include name="testTC003_defaultOrderSettingsExchangeSelection"/>
+
+
+<!--                    <include name="testTC003_successfulSecondaryLogin"/>--> <!-- **** Test Unavialable **** -->
+
+                    <include name="testTC004_defaultOrderSettingsProductTypeSelection"/>
+<!--                    <include name="testTC005_symbolRemovalFromWatchlist"/>-->
+<!--                    <include name="testTC006_buyOrderWindow"/>-->
+<!--                    <include name="testTC007_BuyOrderNSELimitCashDay"/>-->
+<!--                    <include name="testTC008_BuyOrderNSELimitCashIoc"/>-->
+<!--                    <include name="testTC009_BuyOrderNSELimitCashGtd"/>-->
+<!--                    <include name="testTC010_BuyOrderNSELimitIntradayDay"/>-->
+<!--                    <include name="testTC011_BuyOrderNSELimitIntradayIoc"/>-->
+<!--                    <include name="testTC012_BuyOrderNSELimitBtstDay"/>-->
+<!--                    <include name="testTC013_BuyOrderNSELimitBtstIoc"/>-->
+<!--                    <include name="testTC014_BuyOrderNSELimitMtfDay"/>-->
+<!--                    <include name="testTC015_BuyOrderNSELimitMtfIoc"/>-->
+<!--                    <include name="testTC016_BuyOrderNSELimitMtfGtd"/>-->
+<!--                    <include name="testTC017_SellOrderNSELimitCashDay"/>-->
+<!--                    <include name="testTC018_SellOrderNSELimitCashIoc"/>-->
+<!--                    <include name="testTC019_SellOrderNSELimitCashGtd"/>-->
+<!--                    <include name="testTC020_SellOrderNSELimitIntradayDay"/>-->
+<!--                    <include name="testTC021_SellOrderNSELimitIntradayIoc"/>-->
+<!--                    <include name="testTC022_SellOrderNSELimitBtstDay"/>-->
+<!--                    <include name="testTC023_SellOrderNSELimitBtstIoc"/>-->
+<!--                    <include name="testTC024_SellOrderNSELimitMtfDay"/>-->
+<!--                    <include name="testTC025_SellOrderNSELimitMtfIoc"/>-->
+<!--                    <include name="testTC026_SellOrderNSELimitMtfGtd"/>-->
+<!--                    <include name="testTC027_BuyOrderNSEMarketCashDay"/>-->
+<!--                    <include name="testTC028_BuyOrderNSEMarketCashIoc"/>-->
+<!--                    <include name="testTC029_BuyOrderNSEMarketIntradayDay"/>-->
+<!--                    <include name="testTC030_BuyOrderNSEMarketIntradayIoc"/>-->
+<!--                    <include name="testTC031_BuyOrderNSEMarketBtstDay"/>-->
+<!--                    <include name="testTC032_BuyOrderNSEMarketBtstIOC"/>-->
+<!--                    <include name="testTC033_BuyOrderNSEMarketMtfDay"/>-->
+<!--                    <include name="testTC034_BuyOrderNSEMarketMtfIoc"/>-->
+<!--                    <include name="testTC035_SellOrderNSEMarketCashDay"/>-->
+<!--                    <include name="testTC036_BuyOrderNSEMarketCashIoc"/>-->
+<!--                    <include name="testTC037_SellOrderNSEMarketIntradayDay"/>-->
+<!--                    <include name="testTC038_SellOrderNSEMarketIntradayIoc"/>-->
+<!--                    <include name="testTC039_SellOrderNSEMarketBtstDay"/>-->
+<!--                    <include name="testTC040_SellOrderNSEMarketBtstIOC"/>-->
+<!--                    <include name="testTC041_SellOrderNSEMarketMtfDay"/>-->
+<!--                    <include name="testTC042_sellOrderNSEMarketMtfIoc"/>-->
+<!--                    <include name="testTC043_buyOrderNseSlLmtCashDay"/>-->
+<!--                    <include name="testTC044_buyOrderNseSlLmtCashGtd"/>-->
+<!--                    <include name="testTC045_buyOrderNseSlLmtIntradayDay"/>-->
+<!--                    <include name="testTC046_buyOrderNseSlLmtBtstDay"/>-->
+<!--                    <include name="testTC047_buyOrderNseSlLmtMtfDay"/>-->
+<!--                    <include name="testTC048_buyOrderNseSlLmtMtfGtd"/>-->
+<!--                    <include name="testTC049_sellOrderNseSlLmtCashDay"/>-->
+<!--                    <include name="testTC050_sellOrderNseSlLmtCashGtd"/>-->
+<!--                    <include name="testTC051_sellOrderNseSlLmtIntradayDay"/>-->
+<!--                    <include name="testTC052_sellOrderNseSlLmtBtstDay"/>-->
+<!--                    <include name="testTC053_sellOrderNseSlLmtMtfDay"/>-->
+<!--                    <include name="testTC054_sellOrderNseSlLmtMtfGtd"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

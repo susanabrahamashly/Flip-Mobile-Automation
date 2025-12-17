@@ -1,0 +1,383 @@
+2025-12-12 10:46:26 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 10:46:40 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 10:46:45 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 10:47:33 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 10:47:46 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 10:47:51 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 10:59:29 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 10:59:50 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 10:59:54 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:00:50 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:01:03 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:01:08 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:01:32 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:01:48 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:01:52 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:39:42 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:40:07 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:40:12 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:43:10 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:43:26 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:43:30 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:45:26 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:45:42 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:45:47 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:46:49 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:47:05 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:47:11 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:48:51 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:49:08 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:49:12 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:51:56 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:52:13 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:52:19 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:58:49 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:59:04 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:59:10 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 11:59:34 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 11:59:50 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 11:59:55 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 12:00:49 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:01:24 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:01:41 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 12:01:46 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 12:03:14 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:03:30 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 12:03:35 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 12:04:15 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:04:32 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 12:04:37 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 12:05:26 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:05:43 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 12:05:48 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 12:06:18 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:06:48 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:07:03 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 12:07:08 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 12:08:00 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:08:25 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 12:08:42 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 12:08:47 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 13:26:15 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 13:26:35 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC006----------------------
+2025-12-12 13:26:40 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:25:53 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:26:08 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:26:13 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:36:22 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:36:36 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:36:41 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:37:27 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:37:41 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:37:55 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:38:01 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:38:12 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:38:29 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:38:35 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:38:55 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:39:10 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:39:37 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:39:51 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:40:08 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:40:57 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:41:01 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:41:49 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:42:07 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:42:12 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:51:58 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:52:14 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:52:19 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:52:47 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:53:04 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:53:09 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:53:34 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:53:50 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:53:55 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:55:05 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:55:21 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:55:25 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:56:53 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:57:26 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:57:31 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 14:58:36 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 14:58:53 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 14:58:59 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:11:09 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:11:26 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:11:31 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:11:47 [INFO ] com.flip.pages.OrderWindow - LTP: 1599.10
+186
+2025-12-12 15:12:21 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:12:38 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:12:42 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:12:57 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.90
+529
+2025-12-12 15:23:53 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:24:09 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:24:14 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:24:29 [INFO ] com.flip.pages.OrderWindow - LTP: 1599.90
+2,670
+2025-12-12 15:27:51 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:28:08 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:28:13 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:28:26 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.90
+732
+2025-12-12 15:32:26 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:32:42 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:32:47 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:33:02 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 15:33:37 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:33:54 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:33:59 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:34:12 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 15:35:02 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:35:19 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:35:24 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:35:36 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 15:38:29 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:38:45 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:38:50 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:39:04 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 15:40:22 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:40:39 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:40:44 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:40:56 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 15:42:29 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:42:45 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:42:50 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:43:04 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.20
+899
+2025-12-12 15:43:31 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:43:47 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:43:52 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:44:04 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.20
+1,414
+2025-12-12 15:44:08 [INFO ] com.flip.pages.OrderWindow - Lower Circuit: null
+2025-12-12 15:45:45 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 15:46:02 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 15:46:08 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 15:46:27 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.20
+1,599
+2025-12-12 15:46:30 [INFO ] com.flip.pages.OrderWindow - Lower Circuit: 
+2025-12-12 16:07:01 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:07:15 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:07:21 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:07:34 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 16:07:37 [INFO ] com.flip.pages.OrderWindow - Lower Circuit: 
+2025-12-12 16:10:47 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:11:00 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:11:04 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:11:16 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 16:11:19 [INFO ] com.flip.pages.OrderWindow - Lower Circuit: null
+2025-12-12 16:12:23 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:12:36 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:12:40 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:12:52 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 16:13:29 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:13:42 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:13:47 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:13:59 [INFO ] com.flip.pages.OrderWindow - LTP: 0.00
+0
+2025-12-12 16:14:49 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:15:01 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:15:06 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:15:18 [INFO ] com.flip.pages.OrderWindow - LTP: 
+2025-12-12 16:17:14 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:17:27 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:17:34 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:20:28 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:20:41 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:20:46 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:21:43 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:21:55 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:22:01 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:22:13 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.20
+2025-12-12 16:23:17 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:23:30 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:23:35 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:23:50 [INFO ] com.flip.pages.OrderWindow - Lower Circuit: null
+2025-12-12 16:26:36 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:26:49 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:26:54 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:27:54 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:28:07 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:28:12 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:35:59 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:36:13 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:36:17 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:37:18 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:37:31 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:37:36 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:39:12 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:39:25 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:39:30 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:41:22 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:41:35 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:41:40 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:43:37 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:43:50 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:43:55 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:44:10 [INFO ] com.flip.pages.OrderWindow - LTP: null
+2025-12-12 16:45:50 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:46:03 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:46:07 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:46:19 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.20
+2025-12-12 16:55:45 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:55:59 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:56:05 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:56:17 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.20
+2025-12-12 16:57:17 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 16:57:30 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 16:57:35 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
+2025-12-12 16:57:47 [INFO ] com.flip.pages.OrderWindow - LTP: 1598.20
+2025-12-12 17:19:57 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\17636\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-12-12 17:20:12 [INFO ] com.flip.test.main.FlipMobileTest - ----------------------------Test Case ID: TC007----------------------
+2025-12-12 17:20:16 [INFO ] com.flip.pages.LoginPage - --------------Entered user ID: AQSA028------------
